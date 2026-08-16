@@ -8,9 +8,6 @@ An interactive **OT (Overtime) Report Dashboard** developed in **Microsoft Power
 
 > Access to the live Power BI report may require appropriate Power BI/organization permissions.
 
-## 🖼️ Dashboard Preview
-
-![OT Report Dashboard](OT-Dashboard.png)
 
 ## 📌 Project Overview
 
